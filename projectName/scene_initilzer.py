@@ -1,0 +1,2 @@
+currentScene = 'scene'
+all_scn = {'scene': [[(640, 480), (50, 50, 50), (32, 32)], [['new', {'x': 404, 'y': 261, 'w': 216, 'h': 211, 'name': 'mesh0', 'color': (200, 200, 200), 'angle': 0, 'offset': (0, 0), 'pivot': False, 'type': 'new'}], ['new', {'x': 269, 'y': 134, 'w': 20, 'h': 20, 'name': 'mesh1', 'color': (200, 200, 200), 'angle': 0, 'offset': (0, 0), 'pivot': False, 'type': 'new'}]]]}
